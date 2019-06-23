@@ -1,0 +1,27 @@
+firstname: petr
+middlename: anatolevich
+lastname: khilenko
+full_name: petr khilenko
+age: 54
+learn_programming: five year
+programming_languages:
+  ruby: beginner
+  html: as backend deloveper
+  css:
+    sass: bootstrap4
+  js:
+    jquery: beginner
+    coffee: beginner
+    react: well but without experience
+have_a_job: not
+laptop: not
+  - I remote
+  - os linux mint19
+english: read documentation
+education: high medical education 1990 graduate
+  - Omskiy Medicinskiy Institut
+  - Lechebnoe delo
+phone_number: +79081003292 +79083103742
+hours_per_day: 12
+courses: http://mkdev.me
+goal: the_goal_of_life_is_to_become_a_cool_ruby_developer
